@@ -122,7 +122,7 @@ namespace ALMO_DECRYPT
                 x = x.Replace("[", "");
                 x = x.Replace("]", "");
                 VER obj = JsonConvert.DeserializeObject<VER>(x);
-                aMLO_TH_VERSION.Text = obj.VERSION_NUMBER;
+                aMLO_TH_VERSION.Text = obj.VERSION_NUMBER + "::" + obj.CREATE_DATE;
             }
             catch (Exception ex)
             {

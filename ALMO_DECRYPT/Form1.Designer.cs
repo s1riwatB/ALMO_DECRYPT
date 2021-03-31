@@ -249,7 +249,7 @@ namespace ALMO_DECRYPT
             this.textBox14.Location = new System.Drawing.Point(197, 397);
             this.textBox14.Name = "textBox14";
             this.textBox14.ReadOnly = true;
-            this.textBox14.Size = new System.Drawing.Size(444, 23);
+            this.textBox14.Size = new System.Drawing.Size(333, 23);
             this.textBox14.TabIndex = 13;
             // 
             // textBox15
@@ -259,7 +259,7 @@ namespace ALMO_DECRYPT
             this.textBox15.Location = new System.Drawing.Point(197, 426);
             this.textBox15.Name = "textBox15";
             this.textBox15.ReadOnly = true;
-            this.textBox15.Size = new System.Drawing.Size(444, 23);
+            this.textBox15.Size = new System.Drawing.Size(333, 23);
             this.textBox15.TabIndex = 14;
             // 
             // textBox16
@@ -269,7 +269,7 @@ namespace ALMO_DECRYPT
             this.textBox16.Location = new System.Drawing.Point(197, 455);
             this.textBox16.Name = "textBox16";
             this.textBox16.ReadOnly = true;
-            this.textBox16.Size = new System.Drawing.Size(444, 23);
+            this.textBox16.Size = new System.Drawing.Size(333, 23);
             this.textBox16.TabIndex = 15;
             // 
             // textBox17
@@ -279,7 +279,7 @@ namespace ALMO_DECRYPT
             this.textBox17.Location = new System.Drawing.Point(197, 484);
             this.textBox17.Name = "textBox17";
             this.textBox17.ReadOnly = true;
-            this.textBox17.Size = new System.Drawing.Size(444, 23);
+            this.textBox17.Size = new System.Drawing.Size(333, 23);
             this.textBox17.TabIndex = 16;
             // 
             // textBox18
@@ -289,7 +289,7 @@ namespace ALMO_DECRYPT
             this.textBox18.Location = new System.Drawing.Point(197, 513);
             this.textBox18.Name = "textBox18";
             this.textBox18.ReadOnly = true;
-            this.textBox18.Size = new System.Drawing.Size(444, 23);
+            this.textBox18.Size = new System.Drawing.Size(333, 23);
             this.textBox18.TabIndex = 17;
             // 
             // textBox19
@@ -299,7 +299,7 @@ namespace ALMO_DECRYPT
             this.textBox19.Location = new System.Drawing.Point(197, 542);
             this.textBox19.Name = "textBox19";
             this.textBox19.ReadOnly = true;
-            this.textBox19.Size = new System.Drawing.Size(444, 23);
+            this.textBox19.Size = new System.Drawing.Size(333, 23);
             this.textBox19.TabIndex = 18;
             // 
             // label1
@@ -489,7 +489,7 @@ namespace ALMO_DECRYPT
             this.textBox20.Location = new System.Drawing.Point(197, 571);
             this.textBox20.Name = "textBox20";
             this.textBox20.ReadOnly = true;
-            this.textBox20.Size = new System.Drawing.Size(444, 23);
+            this.textBox20.Size = new System.Drawing.Size(333, 23);
             this.textBox20.TabIndex = 39;
             // 
             // button1
@@ -585,7 +585,7 @@ namespace ALMO_DECRYPT
             // label21
             // 
             this.label21.AutoSize = true;
-            this.label21.Location = new System.Drawing.Point(647, 405);
+            this.label21.Location = new System.Drawing.Point(530, 405);
             this.label21.Name = "label21";
             this.label21.Size = new System.Drawing.Size(70, 15);
             this.label21.TabIndex = 49;
@@ -594,7 +594,7 @@ namespace ALMO_DECRYPT
             // label22
             // 
             this.label22.AutoSize = true;
-            this.label22.Location = new System.Drawing.Point(646, 434);
+            this.label22.Location = new System.Drawing.Point(529, 434);
             this.label22.Name = "label22";
             this.label22.Size = new System.Drawing.Size(70, 15);
             this.label22.TabIndex = 50;
@@ -603,7 +603,7 @@ namespace ALMO_DECRYPT
             // label23
             // 
             this.label23.AutoSize = true;
-            this.label23.Location = new System.Drawing.Point(647, 463);
+            this.label23.Location = new System.Drawing.Point(530, 463);
             this.label23.Name = "label23";
             this.label23.Size = new System.Drawing.Size(70, 15);
             this.label23.TabIndex = 51;
@@ -612,7 +612,7 @@ namespace ALMO_DECRYPT
             // label24
             // 
             this.label24.AutoSize = true;
-            this.label24.Location = new System.Drawing.Point(647, 492);
+            this.label24.Location = new System.Drawing.Point(530, 492);
             this.label24.Name = "label24";
             this.label24.Size = new System.Drawing.Size(70, 15);
             this.label24.TabIndex = 52;
@@ -621,7 +621,7 @@ namespace ALMO_DECRYPT
             // label25
             // 
             this.label25.AutoSize = true;
-            this.label25.Location = new System.Drawing.Point(646, 521);
+            this.label25.Location = new System.Drawing.Point(529, 521);
             this.label25.Name = "label25";
             this.label25.Size = new System.Drawing.Size(70, 15);
             this.label25.TabIndex = 53;
@@ -630,7 +630,7 @@ namespace ALMO_DECRYPT
             // label26
             // 
             this.label26.AutoSize = true;
-            this.label26.Location = new System.Drawing.Point(647, 550);
+            this.label26.Location = new System.Drawing.Point(530, 550);
             this.label26.Name = "label26";
             this.label26.Size = new System.Drawing.Size(70, 15);
             this.label26.TabIndex = 54;
@@ -639,7 +639,7 @@ namespace ALMO_DECRYPT
             // label27
             // 
             this.label27.AutoSize = true;
-            this.label27.Location = new System.Drawing.Point(646, 574);
+            this.label27.Location = new System.Drawing.Point(529, 574);
             this.label27.Name = "label27";
             this.label27.Size = new System.Drawing.Size(70, 15);
             this.label27.TabIndex = 55;
@@ -648,63 +648,77 @@ namespace ALMO_DECRYPT
             // label28
             // 
             this.label28.AutoSize = true;
-            this.label28.Location = new System.Drawing.Point(724, 405);
+            this.label28.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label28.ForeColor = System.Drawing.Color.Black;
+            this.label28.Location = new System.Drawing.Point(607, 404);
             this.label28.Name = "label28";
-            this.label28.Size = new System.Drawing.Size(12, 15);
+            this.label28.Size = new System.Drawing.Size(13, 17);
             this.label28.TabIndex = 56;
             this.label28.Text = "-";
             // 
             // label29
             // 
             this.label29.AutoSize = true;
-            this.label29.Location = new System.Drawing.Point(723, 434);
+            this.label29.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label29.ForeColor = System.Drawing.Color.Black;
+            this.label29.Location = new System.Drawing.Point(606, 433);
             this.label29.Name = "label29";
-            this.label29.Size = new System.Drawing.Size(12, 15);
+            this.label29.Size = new System.Drawing.Size(13, 17);
             this.label29.TabIndex = 57;
             this.label29.Text = "-";
             // 
             // label30
             // 
             this.label30.AutoSize = true;
-            this.label30.Location = new System.Drawing.Point(724, 463);
+            this.label30.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label30.ForeColor = System.Drawing.Color.Black;
+            this.label30.Location = new System.Drawing.Point(607, 462);
             this.label30.Name = "label30";
-            this.label30.Size = new System.Drawing.Size(12, 15);
+            this.label30.Size = new System.Drawing.Size(13, 17);
             this.label30.TabIndex = 58;
             this.label30.Text = "-";
             // 
             // label31
             // 
             this.label31.AutoSize = true;
-            this.label31.Location = new System.Drawing.Point(723, 492);
+            this.label31.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label31.ForeColor = System.Drawing.Color.Black;
+            this.label31.Location = new System.Drawing.Point(606, 491);
             this.label31.Name = "label31";
-            this.label31.Size = new System.Drawing.Size(12, 15);
+            this.label31.Size = new System.Drawing.Size(13, 17);
             this.label31.TabIndex = 59;
             this.label31.Text = "-";
             // 
             // label32
             // 
             this.label32.AutoSize = true;
-            this.label32.Location = new System.Drawing.Point(723, 521);
+            this.label32.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label32.ForeColor = System.Drawing.Color.Black;
+            this.label32.Location = new System.Drawing.Point(606, 520);
             this.label32.Name = "label32";
-            this.label32.Size = new System.Drawing.Size(12, 15);
+            this.label32.Size = new System.Drawing.Size(13, 17);
             this.label32.TabIndex = 60;
             this.label32.Text = "-";
             // 
             // label33
             // 
             this.label33.AutoSize = true;
-            this.label33.Location = new System.Drawing.Point(723, 550);
+            this.label33.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label33.ForeColor = System.Drawing.Color.Black;
+            this.label33.Location = new System.Drawing.Point(606, 549);
             this.label33.Name = "label33";
-            this.label33.Size = new System.Drawing.Size(12, 15);
+            this.label33.Size = new System.Drawing.Size(13, 17);
             this.label33.TabIndex = 61;
             this.label33.Text = "-";
             // 
             // label34
             // 
             this.label34.AutoSize = true;
-            this.label34.Location = new System.Drawing.Point(723, 574);
+            this.label34.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label34.ForeColor = System.Drawing.Color.Black;
+            this.label34.Location = new System.Drawing.Point(606, 573);
             this.label34.Name = "label34";
-            this.label34.Size = new System.Drawing.Size(12, 15);
+            this.label34.Size = new System.Drawing.Size(13, 17);
             this.label34.TabIndex = 62;
             this.label34.Text = "-";
             // 
@@ -712,7 +726,7 @@ namespace ALMO_DECRYPT
             // 
             this.statusStrip1.Location = new System.Drawing.Point(0, 712);
             this.statusStrip1.Name = "statusStrip1";
-            this.statusStrip1.Size = new System.Drawing.Size(828, 22);
+            this.statusStrip1.Size = new System.Drawing.Size(957, 22);
             this.statusStrip1.TabIndex = 63;
             this.statusStrip1.Text = ".......";
             // 
@@ -825,7 +839,7 @@ namespace ALMO_DECRYPT
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.WindowFrame;
-            this.ClientSize = new System.Drawing.Size(828, 734);
+            this.ClientSize = new System.Drawing.Size(957, 734);
             this.Controls.Add(this.pictureBox8);
             this.Controls.Add(this.pictureBox7);
             this.Controls.Add(this.pictureBox6);
