@@ -21,11 +21,13 @@
 | URL_XXX_VERSION | Endpoint สำหรับตรวจสอบ Version ไฟล์ |
 | AMLO_URL | URL ที่ทำหนด |
 
-[![image](https://www.amlo.go.th/amlo-intranet/images/APS/B.PNG)](https://www.amlo.go.th/amlo-intranet/images/APS/B.PNG)
+![image](https://www.amlo.go.th/amlo-intranet/images/APS/B.PNG)
 
 
 ##### Program _AMLO_DECRYPT.EXE_
 
-[![image](https://www.amlo.go.th/amlo-intranet/images/APS/A.PNG)](https://www.amlo.go.th/amlo-intranet/images/APS/A.PNG)
+![image](https://www.amlo.go.th/amlo-intranet/images/APS/A.PNG)
+
+
 
 **© 2021 - Amlo Application**
