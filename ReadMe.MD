@@ -3,8 +3,13 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/s1riwatB/ALMO_DECRYPT)
 
+### _ขั้นตอนการใช้งาน_
+-  แก้ไขไฟล์ Config.DB
+-  เปิดโปรแกรม AMLO_Decrypt.exe กรอกข้อมูล ได้แก่  Username + Passsword + API Key ที่ได้รับแจ้งทาง E-mail และทำการทดสอบโปรแกรม
 
-โปรแกรมพัฒนาด้วย C# .Net Core Version 3.1
+
+### _Require Rpec_
+โปรแกรมพัฒนาด้วย C# .Net Core Version 3.1 (Build Any CPU)
 เครื่องที่ใช้ต้องลง .Net Core Version 3.1 สามารถ download 
 ได้ที่ Link ด้านล่าง
 -   [Download ที่นี่](https://dotnet.microsoft.com/download/dotnet/3.1 )
@@ -24,8 +29,11 @@
 [![image](https://www.amlo.go.th/amlo-intranet/images/APS/B.PNG)](https://www.amlo.go.th/amlo-intranet/images/APS/B.PNG)
 
 
+
 ##### Program _AMLO_DECRYPT.EXE_
 
 [![image](https://www.amlo.go.th/amlo-intranet/images/APS/A.PNG)](https://www.amlo.go.th/amlo-intranet/images/APS/A.PNG)
+
+
 
 **© 2021 - Amlo Application**
